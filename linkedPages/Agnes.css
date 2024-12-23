@@ -1,0 +1,60 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    margin: 24px;
+    transition-duration: 2s;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+header .navigation a {
+    color: #000;
+    background: #ecc983;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 2px 15px;
+    border-radius: 20px;
+}
+
+header .navigation a:hover {
+    background: #4a6976;
+}
+
+.portraitPhoto {
+    width: 110px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: 24px;
+    transition: 2s;
+}
+
+.portraitPhoto:hover {
+    box-shadow: 0 0 24px rgb(30, 18, 100);
+    transition: 2s;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 1px;
+    color:rgba(62, 32, 6, 0.882)
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.art img {
+    box-shadow: 0 0 25px rgb(67, 52, 57);
+}
