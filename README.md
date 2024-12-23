@@ -1,0 +1,1 @@
+I attempt to make a Gallery website but then changed it to a teaching website with instructors. called it "websiteTemplate" since I was attempting tomcreate different html until I felt satisfied with the outcome and look of the website.
